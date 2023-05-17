@@ -1,2 +1,3 @@
-### Hi there 👋
-<p allign="justify">Student of MJCET pursuing engineering in the field of ECE</p>
+### Hi there
+<p allign="justify">Entering in the World of Advanced Chip Design"
+This GitHub repository is a reflection of my journey as an engineering student specializing in Electronics and Communication Engineering (ECE) with a deep passion for VLSI (Very Large Scale Integration). Follow along as I explore the fascinating realm of advanced chip design, honing my skills and knowledge through practical projects and internships. Join me in unraveling the complexities of VLSI and witnessing the transformative power of microelectronics. Let's push the boundaries of innovation together in the world of ECE and VLSI!"</p>
